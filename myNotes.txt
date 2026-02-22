@@ -46,7 +46,7 @@ export PATH="$PATH:/Applications/Docker.app/Contents/Resources/bin"
 Now docker build command worked
 Add this export permanently to ~/.zshrc
 
-#Let it be as it is
+#Let it be as it is. I have not changed it
 $ cat ~/.docker/config.json
 {
 	"auths": {},

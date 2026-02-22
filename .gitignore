@@ -208,3 +208,4 @@ __marimo__/
 .DS_Store
 ECR_PUSH_COMMANDS.md
 push-to-ecr.sh
+output.svg
